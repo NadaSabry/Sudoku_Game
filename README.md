@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welocme to Sudoku Game</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welocme to Sudoku Game
+<img src="https://th.bing.com/th/id/R.72e4c3185f3a2bcf15493f77b6ae25f7?rik=hCb7MT7HVZLg%2bQ&pid=ImgRaw&r=0" width="50px" height="50px"></h1>
 
 <h2 align="left">What is Sudoku Game:</h3>
 <p>Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so
