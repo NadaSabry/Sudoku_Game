@@ -10,19 +10,19 @@ puzzle, and its solution (right).</p>
 <!-- cover -->
 ![Screenshot from 2022-01-29 15-58-34](https://user-images.githubusercontent.com/73343985/151664013-f592aa70-bc29-4d18-9fb3-f220e8e81018.png)
 
-<h3 align="left">Connect with Us:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/mwlite/in/nada-sabry-62668b232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed hany" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nada.sabri.9849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hany" height="30" width="40" /></a>
-<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lîon heart" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Solver_-_NaDooDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saytara" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
+  
+ ## Connect with Us: 
+<p align="left">
+<a href="https://www.linkedin.com/mwlite/in/nada-sabry-62668b232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed hany" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Solver_-_NaDooDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saytara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nada.sabri.9849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hany" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">📸 Prototype Images:</h3>
+## 📸 Prototype Images:</h3>
 
 <h4 align="left">Menu:</h4>
 <img alt="Menu" src="https://user-images.githubusercontent.com/73343985/151664462-83cf7a07-f39c-4c21-9ff8-58e08e20ece5.png">
